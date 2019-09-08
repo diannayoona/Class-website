@@ -1,0 +1,49 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @You in DTLA
+*/
+
+h1, h2, h3, h4, h5 {
+    font-family: Quicksand, serif;
+        font-weight: 800;
+
+}
+
+h2 {
+    color: #24e05c;
+    font-weight: 800;
+}
+
+h4 {
+	color:#036ffc;
+	    font-weight: 800;
+
+}
+
+p {
+    font-family: Quicksand, serif;
+}
+
+#team {
+    background-color: #ebf9ff;    
+    padding-top: 40px;
+    margin-top: 20px;
+
+}
+
+.jumbotron {
+	height: 350px;
+	background-color: #036ffc;
+}
+
+.content {
+margin-right: 10%;
+margin-left: 10%;
+
+}
+
+.active {
+	color: blue;
+}
